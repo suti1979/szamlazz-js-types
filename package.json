@@ -1,0 +1,19 @@
+{
+  "name": "@types/szamlazz.js",
+  "version": "1.0.0",
+  "description": "TypeScript declarations for szamlazz.js",
+  "types": "src/szamlazz.d.ts",
+  "keywords": [],
+  "author": "suti1979",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "typescript": "^5.2.2"
+  },
+  "prettier" :{
+    "printWidth": 100,
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": false
+  }
+}
